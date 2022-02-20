@@ -37,10 +37,10 @@ categories: Inceputuri HTML
 - Mai multe resurse interesante se gasesc   <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html" target="_blank">aici </a> ⭐ (<a href="https://www.slideshare.net/busaco/html5-in-xxx-de-minute" target="_blank">HTML5 în XXX de minute</a> , <a href="https://www.slideshare.net/busaco/cu-codul-n-nori" target="_blank">Cu codul în "nori"</a>)
 
 ### 💻 Exerciții laborator
-- <a href="https://raw.githubusercontent.com/VictorVlad-Github/site-test/master/_posts/imagini/L1_Ex1.png" target="_blank">Exercitiul 1</a> 
+- <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L1_Ex1.png" target="_blank">Exercitiul 1</a> 
   - https://formspree.io/f/xvolawvr 
   - first_name, last_name, gender
-- <a href="https://raw.githubusercontent.com/VictorVlad-Github/site-test/master/_posts/imagini/L1_Ex2.png" target="_blank">Exercitiul 2</a>
+- <a href="https://github.com/victorvlad19/web/blob/master/_posts/imagini/L1_Ex2.png" target="_blank">Exercitiul 2</a>
   - https://formspree.io/f/xwkyorwq
   - first_name, last_name, email, phone, address, city, state, zipcode, website, hosting, project_description
   - <a href="https://getemoji.com/" target="_blank">Pictograme</a>
@@ -48,7 +48,7 @@ categories: Inceputuri HTML
 Validare HTML: <a href="https://validator.w3.org/#validate_by_input" target="_blank">aici</a>
 
 Rezolvarile se vor trimite pe <a href="mailto:victorvlad.web@gmail.com" target="_blank">email</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa. 
-Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://raw.githubusercontent.com/VictorVlad-Github/site-test/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
+Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3schools.com/html/exercise.asp" target="_blank">W3schools Exercise v3.0 </a>,
