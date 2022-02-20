@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tehnologii Web
-email: victorvlad19@gmail.com
+email: victorvlad.web@gmail.com
 author: Victor Vlad
 description: >- # this means to ignore newlines until "baseurl:"
   Fundaţia unui viitor dezvoltator Web profesionist
