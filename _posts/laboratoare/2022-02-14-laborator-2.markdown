@@ -27,7 +27,7 @@ categories: CSS
 - <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L2_Ex1.png" target="_blank">Exercitiul 1</a>
     - Patrat: #b5e0ba, Fundal: #5d3a3a
 - <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L2_Ex2.png" target="_blank">Exercitiul 2</a>
-    - Patrat: #fdc57b, Fundal: #fdc57b
+    - Patrat: #fdc57b, Fundal: #62374E
 - <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L2_Ex3.png" target="_blank">Exercitiul 3</a>
   - Culoare primara: #04aa6d, Culoare secundara: #32a4e7
 
