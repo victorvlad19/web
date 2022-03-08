@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: moving-circle;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+}
+
+@keyframes moving-circle {
+    /*Completeaza codul lipsa*/
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color: #dd00ff; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
