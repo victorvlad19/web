@@ -1,0 +1,32 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-auto-rows: minmax(6em, auto);
+    grid-gap: 1em;
+    align-items: stretch;
+}
+
+.wrapper > div {
+    background: #eee;
+    padding: 1em;
+}
+
+.wrapper > div:nth-child(odd) {
+    background: #ddd;
+}
+
+.c1 {
+    /*Completeaza codul lipsa*/
+}
+
+.c2 {
+    /*Completeaza codul lipsa*/
+}
+
+.c3 {
+    /*Completeaza codul lipsa*/
+}
+
+.c4 {
+    /*Completeaza codul lipsa*/
+}
