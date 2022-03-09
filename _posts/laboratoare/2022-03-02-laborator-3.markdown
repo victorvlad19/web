@@ -33,12 +33,12 @@ categories: CSS Design-Responsiv Animatii-CSS
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/flex.html" target="_blank">flex.html</a>
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/flex.css" target="_blank">flex.css</a>
 - <a href="https://cssgridgarden.com" target="_blank">Exercitiu de antrenament (Grid Garden)</a>
-- <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L2_Ex1.png" target="_blank">Exercitiul 2</a>
+- <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L3_Ex2.png" target="_blank">Exercitiul 2</a>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/grid.html" target="_blank">grid.html</a>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/grid.css" target="_blank">grid.css</a>
 - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/imagini/L3_Ex3.gif" target="_blank">Exercitiul 3</a>
   - <a href="https://gist.githubusercontent.com/gokulkrishh/242e68d1ee94ad05f488/raw/c6dbc8ecc81d24c2eaf901de7fd376161fb12518/media-query.css" target="_blank">Media Queries</a>
-- <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L2_Ex1.png" target="_blank">Exercitiul 4</a>
+- <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/L3_Ex4.gif" target="_blank">Exercitiul 4</a>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/anim.html" target="_blank">anim.html</a>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/anim.css" target="_blank">anim.css</a>
 - <span>Exercitiul 5 - Rescrie codul de la exercitiul 2 folosind variabile</span>
