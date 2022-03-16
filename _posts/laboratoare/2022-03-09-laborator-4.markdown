@@ -24,8 +24,8 @@ categories: Proiecte Recapitulare Design-si-Interacţiune-Web
 ### 💻 Exerciții laborator
 
 - <span>Exercitiul 1 - Sa se refactorizeze codul dupa metodologia BEM </span>
-    - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/flex.html" target="_blank">flex.html</a>
-    - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/flex.css" target="_blank">flex.css</a>
+    - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/bem.html" target="_blank">bem.html</a>
+    - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/bem.css" target="_blank">bem.css</a>
 - <span>Exercitiul 2 - Sa se refactorizeze codul de la exercitiul 1 folosind SCSS sau SASS </span>
 - <span>Exercitiul 3 - Sa se construiasca o pagina de omagiu a unei personalitati din informatica folosind toate cunonstintele din laboratoarele anterioare</span>
 
