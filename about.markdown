@@ -82,3 +82,28 @@ si situatia vanzarilor in functie de categoria de parfumuri, profilul utilizator
 o anumita perioada de timp etc.
 
 </div>
+
+<div class="card" markdown="1">
+
+#### <b>FoSA</b> (Footwear Smart Assistant)
+
+Unele persoane pot intampina dificultati in alegerea incaltamintei potrivite 
+pentru anumite ocazii: interviu de angajare, spectacol, campionat de sumo etc. 
+Este necesara o aplicatie Web ce permite alegerea pieselor de incaltaminte, 
+oferindu-se si diverse recomandari conform sezonului, cromaticii, marcii preferate, 
+tendintelor modei, caracteristicilor speciale si/sau stilului vestimentar adoptat de 
+persoana respectiva -- de exemplu, tinuta sportiva, pentru birou si altele.
+<br><br>
+Se vor prezenta informatii referitoare la achizitionarea unor produse de 
+interes (e.g., sugestii de genul "se apropie primavara, pentru plimbari 
+nocturne ar fi utile niste cizme pictate" sau "pentru ceremonii dansante e 
+indicat sa porti pantofi cu toc de inox; asorteaza-i cu o toga argintie"). 
+Fiecare sugestie oferita utilizatorului va fi expediata si prin posta electronica, 
+suplimentar putand fi partajata pe o retea sociala si votata 
+(i.e. apreciata cu 1, 2,..., 5 "stele" sau calificative), astfel incat sa 
+poata fi propusa si altor persoane avand preferinte similare. 
+Statisticile generate vor adopta formatele HTML, CSV si XML.  </br>
+<b>Bonus:</b> preluarea de pe situri Web existente a datelor despre incaltaminte.
+
+
+</div>
