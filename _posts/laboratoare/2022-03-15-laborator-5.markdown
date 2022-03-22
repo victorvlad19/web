@@ -43,4 +43,4 @@ categories: PHP
 <a href="https://www.w3schools.com/php/exercise.asp" target="_blank">W3schools PHP Exercises</a>,
 <a href="https://phpenthusiast.com/object-oriented-php-tutorials/practice" target="_blank">Object Oriented PHP Quiz</a>,
 <a href="https://www.w3resource.com/php-exercises/php-class-exercises.php" target="_blank">PHP W3resource</a>,
-<a href="https://www.learn-php.org" target="_blank">Learn PHP </a>
+<a href="https://www.learn-php.org" target="_blank">Learn PHP </a> 
