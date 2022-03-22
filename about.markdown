@@ -102,7 +102,7 @@ Fiecare sugestie oferita utilizatorului va fi expediata si prin posta electronic
 suplimentar putand fi partajata pe o retea sociala si votata 
 (i.e. apreciata cu 1, 2,..., 5 "stele" sau calificative), astfel incat sa 
 poata fi propusa si altor persoane avand preferinte similare. 
-Statisticile generate vor adopta formatele HTML, CSV si XML.  </br>
+Statisticile generate vor adopta formatele HTML, CSV si XML.  <br>
 <b>Bonus:</b> preluarea de pe situri Web existente a datelor despre incaltaminte.
 
 
