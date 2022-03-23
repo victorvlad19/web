@@ -40,6 +40,10 @@ categories: PHP
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/5/3/Ebook.php" target="_blank">Ebook.php</a>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/5/3/BookInterface.php" target="_blank">BookInterface.php</a>
 
+Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
+Corpul mesajului trebuie sa contina numarul exercitiului si un link de <a href="https://replit.com" target="_blank">Replit</a> cu rezolvarea.
+
+
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3schools.com/php/exercise.asp" target="_blank">W3schools PHP Exercises</a>,
 <a href="https://phpenthusiast.com/object-oriented-php-tutorials/practice" target="_blank">Object Oriented PHP Quiz</a>,
