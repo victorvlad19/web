@@ -18,6 +18,7 @@ categories: PHP
 - Client API - <a href="https://www.postman.com/" target="_blank">Postman</a>
 
 ### 📖 Resurse
+- <a href="https://www.php.net/manual/en/index.php"> PHP Manual  </a>
 - <a href="https://www.w3schools.com/php/"> PHP W3schools</a>
 - <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/demos/php/php.zip" target="_blank">Exemple de programe PHP ⭐</a>
 - <a href="https://www.guru99.com/php-tutorials.html" target="_blank">  PHP Tutorial for Beginners </a>
