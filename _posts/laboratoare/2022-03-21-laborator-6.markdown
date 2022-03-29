@@ -21,6 +21,7 @@ categories: PHP BD PDO
 - <a href="https://phpdelusions.net/pdo" target="_blank">PDO tutorial</a>
 - <a href="https://www.php.net/manual/en/refs.database.php">Database Extensions</a>
 - <a href="https://www.php.net/manual/en/book.pdo.php">PHP Data Objects</a>
+- Mai multe resurse interesante se gasesc   <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html" target="_blank">aici </a> ⭐
 
 ### 💻 Exerciții laborator
 - <span>Exercitiul 1 - Sa se completeze codul lipsa: </span>
