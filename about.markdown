@@ -24,7 +24,7 @@ permalink: /proiecte/
 - <a href="https://w3c.github.io/scholarly-html/" target="_blank"> Document Scholarly HTML </a> corect
 - Complexitatea designului ( minim 3 pagini simple de tip Login, About, Help vs complet )
 - Lucrul in echipa (Metrici Github echipa)
-- Bonus: preprocesare SASS et al., folosirea BEM et al., adnotari semantice cu schema.org
+- Bonus: <a href="https://victorvlad19.github.io/web/proiecte/recapitulare/design-si-interac%C5%A3iune-web/2022/03/08/laborator-4.html" target="_blank">preprocesare SASS et al., folosirea BEM et al., adnotari semantice cu schema.org </a>
 
 ### Categoria M (maxim 10 puncte)
 
