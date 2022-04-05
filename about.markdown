@@ -15,6 +15,17 @@ permalink: /proiecte/
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9846o2ZHCQ4SxFs-yUOmsoKvQlAIWvFoHwWK2uHXGSGIX-Q/viewform?usp=sf_link" class="slides-link">Înscriere echipă</a>
 </blockquote>
 
+### 🎯 Criterii de evaluare saptamana 8
+- Formularea + respectarea corespunzatoare a cerintelor proiectului
+- HTML si CSS valide
+  -  <a href="https://validator.w3.org/#validate_by_input" target="_blank">Validare HTML</a>
+  -  <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">Validare CSS</a>
+- <a href="https://victorvlad19.github.io/web/css/design-responsiv/animatii-css/2022/03/01/laborator-3.html" target="_blank"> Design responsiv </a>
+- <a href="https://w3c.github.io/scholarly-html/" target="_blank"> Document Scholarly HTML </a> corect
+- Complexitatea designului ( minim 3 pagini simple de tip Login, About, Help vs complet )
+- Lucrul in echipa (Metrici Github echipa)
+- Bonus: preprocesare SASS et al., folosirea BEM et al., adnotari semantice cu schema.org
+
 ### Categoria M (maxim 10 puncte)
 
 <div class="card" markdown="1">
