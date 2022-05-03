@@ -14,6 +14,9 @@ categories: AJAX Fetch-API Proiecte
     <a href="https://docs.google.com/presentation/d/e/2PACX-1vSCTrcM0PksdRwZpvL1TXw-JfBZ75zMrFKjkigfTHhgyoE6SpjQk-pq28UFlPNBcKVB6DoWuJG2BWYT/pub?start=false&loop=false&delayms=3000" class="slides-link">Slide-uri laborator</a>
 </blockquote>
 
+### ⚙️ Instrumente recomandate
+- Client API - <a href="https://www.postman.com/" target="_blank">Postman</a>
+
 ### 📖 Resurse
 - <a href="https://www.programmableweb.com/apis/directory">ProgrammableWeb</a>
 - <a href="https://apilist.fun" target="_blank">API List: A public list of free APIs for programmers</a>
