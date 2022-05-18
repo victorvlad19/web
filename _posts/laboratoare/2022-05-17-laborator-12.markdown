@@ -14,6 +14,13 @@ categories: GraphQL Micro-servicii Specificarea-API-urilor
     <a href="https://docs.google.com/presentation/d/e/2PACX-1vTAMoFIeMPiizhqKDFkxtWypKSO-_K2fk4AUP8AzKCathNMdo6NmRF-D5VjX4l0rbOVMFjBVk8zB9u1/pub?start=false&loop=false&delayms=3000" class="slides-link">Slide-uri laborator</a>
 </blockquote>
 
+### ⚙️ Instrumente recomandate
+- Manager de pachete
+  - Windows: <a href="https://chocolatey.org" target="_blank">Chocolatey </a>
+  - Mac: <a href="https://chocolatey.org" target="_blank">Homebrew </a>, <a href="https://github.com/Homebrew/homebrew-cask" target="_blank">Homebrew Cask </a>
+  - Linux: <a href="https://linuxize.com/post/how-to-use-apt-command/" target="_blank">apt </a>
+- Manager de pachete PHP - <a href="https://getcomposer.org/" target="_blank">Composer</a>
+
 ### 📖 Resurse
 - <a href="https://webonyx.github.io/graphql-php/concepts">webonyx/graphql-php</a>
 - <a href="https://github.com/zircote/swagger-php">zircote/swagger-php</a>
