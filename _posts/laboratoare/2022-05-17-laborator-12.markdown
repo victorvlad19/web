@@ -39,7 +39,7 @@ categories: GraphQL Micro-servicii Specificarea-API-urilor
 
 ### 💻 Exerciții laborator
 - <span>Exercitiul 1 - Sa se completeze codul lipsa pentru API-ul prezentat mai jos</span>
-  - <a href="https://github.com/victorvlad19/web/raw/master/_posts/code/rest.zip" target="_blank">API Pisici REST (Laboratorul 10)</a>
+  - <a href="https://github.com/victorvlad19/web/raw/master/_posts/code/rest.zip" target="_blank">API Pisici REST (Laboratorul 11)</a>
 
 - <span>Exercitiul 2 - Sa se completeze codul lipsa pentru API-ul scris in Graphql</span>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/12/graphql.php" target="_blank">API Pisici GraphQL </a>
