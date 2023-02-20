@@ -3,6 +3,7 @@ layout: post
 title:  "Laboratorul 2"
 date:   2022-02-13 20:57:38 +0200
 categories: CSS
+published: false
 ---
 > ### ️Prezentare generală
 > Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html" target="_blank">@busaco/tehnologii-web/desfășurare </a> \

@@ -2,6 +2,7 @@
 layout: page
 title: Proiecte
 permalink: /proiecte/
+published: false
 ---
 
 > ### ️Prezentare generală
