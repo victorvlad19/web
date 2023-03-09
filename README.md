@@ -1,6 +1,9 @@
+## 🧪 Web Technologies Labs
+Here is the web application dedicated to teaching 
+second year students web technologies. 
+
+
 ## ☁️ Installation
-
-
 
 For mac with M1 processor install ruby using
 ```sh
