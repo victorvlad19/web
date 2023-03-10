@@ -18,3 +18,7 @@ gem install bundler jekyll
 # Start the application using
 bundle exec jekyll serve
 ```
+
+## 📜 License
+
+**[MIT](https://github.com/victorvlad19/web/blob/master/LICENSE)** © Victor Vlad
