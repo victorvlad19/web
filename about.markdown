@@ -12,8 +12,9 @@ permalink: /proiecte/
 >
 > <b style="color: #d14; font-weight:500;">Maxim 7 echipe per tema de proiect</b>, cu echipe compuse din 2–3 persoane din grupele conduse de același responsabil de laborator.
 <blockquote class="slides" >
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfH_mp1iBfFan5uWG8dJq-4AKW9Bt3LMod78cFl-vI3HguBA/viewform"  class="slides-link">Înscriere echipă</a>
+    <a href="https://docs.google.com/spreadsheets/d/1Kesn5Umk7so8n5qisIxoapyk61O2Sspm456dNRISBD8/edit?usp=sharing"  class="slides-link">Echipe Inscrise</a>
 </blockquote>
+
 
 ### 🎯 Criterii de evaluare saptamana 8
 - Formularea + respectarea corespunzatoare a cerintelor proiectului

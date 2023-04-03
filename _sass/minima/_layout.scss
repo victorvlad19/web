@@ -2,10 +2,9 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid #0060b8;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
 
+  min-height: $spacing-unit * 1.865;
+  padding: 0.5em;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -115,13 +114,109 @@
 }
 
 
+/**
+ * Site grid
+ */
+.grid-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 350px));
+  grid-gap: 30px 30px;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.grid-row .grid-item span {
+  padding: 10px;
+  line-height: 1;
+}
+
+.grid-row .grid-item h3 {
+  font-size: 20px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.grid-row .grid-item p {
+    padding-top: 10px;
+    color: #828282;
+    height: 3vh;
+}
+
+.grid-row .grid-item img {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.grid-row .grid-item:hover {
+  filter: contrast(0.9);
+}
+
+.grid-row .grid-item {
+  transition: filter 0.5s ease;
+  display: flex;
+  cursor: pointer;
+  background: #ffffff;
+  border-radius: 7px;
+  color: var(--dark);
+  text-align: center;
+  font-family: sans-serif;
+  flex-direction: column-reverse;
+  align-items: stretch;
+}
+
+
+.education {
+  --bg-color: #ffd861;
+  --bg-color-light: #ffeeba;
+  --text-color-hover: #4C5656;
+  --box-shadow-color: rgba(255, 215, 97, 0.48);
+}
+
+.circle {
+  width: 131px;
+  height: 131px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid var(--bg-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  transition: all 0.3s ease-out;
+}
+
+.circle:after {
+  content: "";
+  width: 118px;
+  height: 118px;
+  display: block;
+  position: absolute;
+  background: var(--bg-color);
+  border-radius: 50%;
+  top: 7px;
+  left: 7px;
+  transition: opacity 0.3s ease-out;
+}
+
+.overlay {
+  width: 118px;
+  position: absolute;
+  height: 118px;
+  border-radius: 50%;
+  background: var(--bg-color);
+  top: 70px;
+  left: 50px;
+  z-index: 0;
+  transition: transform 0.3s ease-out;
+}
 
 /**
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: 15px 0;
+  padding-top: 20px;
 }
 
 .footer-heading {
@@ -190,8 +285,12 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  background-color: #f9f9f9;
   flex: 1;
+}
+
+.courses {
+  padding: $spacing-unit 0;
 }
 
 .page-heading {
