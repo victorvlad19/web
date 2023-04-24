@@ -3,7 +3,7 @@ layout: post
 title:  "Laboratorul 9"
 date:   2022-03-08 20:57:38 +0200
 categories: PHP XML SVG Vanilla-Javascript
-published: false
+published: true
 ---
 
 > ### ️Prezentare generală
@@ -36,6 +36,8 @@ published: false
 - <span><a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/imagini/L9_Ex2.png">Exercitiul 2</a> - Folosind SVG sa se implementeze imaginea  </span>
   - <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/line" target="_blank">Linie</a>
   - <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/circle" target="_blank">Cerc</a>
+
+Rezolvarile se vor trimite pe adresa victorvlad.web@gmail.com. Mesajele trimise trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa. Corpul mesajului trebuie sa contina numarul exercitiului si un link de Replit cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3resource.com/javascript-exercises" target="_blank">W3resource JavaScript - Exercises </a>,
