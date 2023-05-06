@@ -3,7 +3,6 @@ layout: post
 title:  "Laboratorul 10"
 date:   2022-03-08 20:57:38 +0200
 categories: AJAX Fetch-API Proiecte
-published: false
 ---
 
 > ### ️Prezentare generală
