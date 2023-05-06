@@ -18,7 +18,6 @@ categories: AJAX Fetch-API Proiecte
 - Client API - <a href="https://www.postman.com/" target="_blank">Postman</a>
 
 ### 📖 Resurse
-- <a href="https://www.programmableweb.com/apis/directory">ProgrammableWeb</a>
 - <a href="https://apilist.fun" target="_blank">API List: A public list of free APIs for programmers</a>
 - <a href="https://rapidapi.com/collection/list-of-free-apis">Free Public APIs for Developers</a>
 - <a href="https://www.w3schools.com/js/js_ajax_intro.asp">AJAX Introduction</a>
