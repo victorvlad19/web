@@ -16,7 +16,7 @@ draft: false
 > Resurse de interes: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-biblio.html" class="text-link" target="_blank">@andrei.panu/web/bibliografie  </a>
 
 <blockquote class="slides">
-    <a href="#" class="slides-link">Slide-uri laborator</a>
+    <a href="https://docs.google.com/presentation/d/e/2PACX-1vRZdzDnfDWLM_12nR2pCukYWFWJewebzOTLzut0JDZJqFmr3u4MF7MWzsVghuvtADnxH3I4IidiLRr1/pub?start=false&loop=false&delayms=3000&slide=id.p" class="slides-link">Slide-uri laborator</a>
 </blockquote>
 
 ### ⚙️ Instrumente recomandate
