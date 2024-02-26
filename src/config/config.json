@@ -2,7 +2,7 @@
   "site": {
     "title": "TW",
     "base_url": "#",
-    "base_path": "https://victorvlad19.github.io/web/",
+    "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
