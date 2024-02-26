@@ -1,0 +1,47 @@
+{
+  "site": {
+    "title": "TW",
+    "base_url": "#",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_width": "150",
+    "logo_height": "27",
+    "logo_text": "Tehnologii Web"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 20,
+    "summary_length": 200,
+    "blog_folder": "laboratoare"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Victor Vlad"
+  },
+
+  "navigation_button": {
+    "enable": false,
+    "label": "Login",
+    "link": "#"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "web-Jho1v8Lr2y",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "Victor Vlad",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Web Tehnologies"
+  }
+}
