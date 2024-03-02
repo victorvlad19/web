@@ -6,6 +6,7 @@ import Footer from "@/partials/Footer";
 import Header from "@/partials/Header";
 import Providers from "@/partials/Providers";
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import "@/styles/main.scss";
 
 export default function RootLayout({
@@ -51,6 +52,7 @@ export default function RootLayout({
           <main>{children}</main>
           <Footer />
           <Analytics />
+          <SpeedInsights />
         </Providers>
       </body>
     </html>
