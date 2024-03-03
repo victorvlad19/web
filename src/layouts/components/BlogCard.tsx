@@ -31,10 +31,10 @@ const BlogCard = ({ data }: { data: Post }) => {
         <li className="mr-4 inline-block">
           <FaThList className={"-mt-1 mr-2 inline-block"} />
           {categories?.map((category: string, index: number) => (
-            <Link key={index} href={`/categories/${slugify(category)}`}>
+            <span key={index}>
               {humanize(category)}
               {index !== categories.length - 1 && ", "}
-            </Link>
+            </span>
           ))}
         </li>
 

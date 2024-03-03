@@ -66,13 +66,12 @@ const PostSingle = ({ params }: { params: { single: string } }) => {
                 <li className="mr-4 inline-block">
                   <FaRegFolder className={"-mt-1 mr-2 inline-block"} />
                   {categories?.map((category: string, index: number) => (
-                    <Link
+                    <span
                       key={category}
-                      href={`/categories/${slugify(category)}`}
                     >
                       {humanize(category)}
                       {index !== categories.length - 1 && ", "}
-                    </Link>
+                    </span>
                   ))}
                 </li>
               </ul>
