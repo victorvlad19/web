@@ -11,7 +11,7 @@ draft: false
 > Foi de stiluri CSS: <a href="https://profs.info.uaic.ro/~busaco/teach/labs/css" target="_blank">@busaco/css </a>
 
 <blockquote class="slides">
-    <a href="#" class="slides-link">Slide-uri laborator</a>
+    <a href="https://docs.google.com/presentation/d/e/2PACX-1vSFd21Uuhmcl_nXFev-Dk2OuO6aaeg7rV5JZrRdgFJcxM8WvIygZJ2RULenTd9ISNgL9NGJq1W2cCAz/pub?start=false&loop=false&delayms=3000" class="slides-link">Slide-uri laborator</a>
 </blockquote>
 
 ### 📖 Resurse
