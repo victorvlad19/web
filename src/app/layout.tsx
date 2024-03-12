@@ -42,6 +42,7 @@ export default function RootLayout({
           }&display=swap`}
           rel="stylesheet"
         />
+        <link rel="alternate" type="application/rss+xml" title="Tehnologii web rss feed" href="/rss.xml" />
       </head>
 
       <body suppressHydrationWarning={true}>

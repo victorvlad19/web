@@ -8,6 +8,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useEffect } from "react";
 import { IoSearch } from "react-icons/io5";
+import { IoLogoRss } from "react-icons/io";
 
 //  child navigation link interface
 export interface IChildNavigationLink {
@@ -130,6 +131,16 @@ const Header = () => {
 
         </ul>
         <div className="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+          <Link href="/rss.xml">
+            <button
+                className="border-border text-dark hover:text-primary dark:border-darkmode-border
+                mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+                aria-label="rss">
+              <IoLogoRss />
+            </button>
+          </Link>
+
           {settings.search && (
             <button
               className="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
@@ -139,6 +150,7 @@ const Header = () => {
               <IoSearch />
             </button>
           )}
+
           <ThemeSwitcher className="mr-5" />
         </div>
       </nav>
