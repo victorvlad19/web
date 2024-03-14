@@ -39,7 +39,7 @@ const Home = () => {
       <section className="section">
         <div className="container">
           <div className="row gx-5">
-            <div className="lg:col-2"/>
+            {/*<div className="lg:col-2"/>*/}
             <div className="lg:col-8">
               <div className="row">
                 {currentPosts.map((post: any, index: number) => (
@@ -54,6 +54,13 @@ const Home = () => {
                 totalPages={totalPages}
               />
             </div>
+
+            <PostSidebar
+                categories={categories}
+                tags={tags}
+                allCategories={allCategories}
+            />
+
           </div>
         </div>
       </section>
