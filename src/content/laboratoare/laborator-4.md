@@ -10,7 +10,7 @@ draft: false
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Programare Web – Arhitectura aplicaţiilor Web. Servere de aplicaţii Web. PHP </a>
 
 <blockquote class="slides">
-    <a href="#" class="slides-link">Slide-uri laborator</a>
+    <a href="https://docs.google.com/presentation/d/e/2PACX-1vQAPe3Z0dPuFTZqV9E9x4AoAsWgGtdb3ZYt-IcHa6rpqILbRRVBgMRPYo6pAIK0kPPZD0UMqYEmJV5d/pub?start=false&loop=false&delayms=3000" class="slides-link">Slide-uri laborator</a>
 </blockquote>
 
 ### 📖 Resurse
