@@ -7,9 +7,9 @@ draft: false
 
 > ### ️Prezentare generală
 > Detalii despre evaluare:
-> - <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-exam.html" target="_blank">Aspecte privind evaluarea activităţii </a>
-> - <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-projects.html" target="_blank">Detalii despre proiectele practice </a>
-> - <a href="https://docs.google.com/document/d/1-kwayc6-iC5EqXXyk_laMbKxfNhz_wZPxkPNwUZPnsE/edit" target="_blank">Întrebări frecvente </a>
+> - <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-exam.html" target="_blank">Aspecte privind evaluarea activităţii </a>
+> - <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-projects.html" target="_blank">Detalii despre proiectele practice </a>
+> - <a href="https://docs.google.com/document/d/1Gmnx1RRssG87u3EmarKP93LToxGH5KpM3XxTaMsSO3I/edit" target="_blank">Întrebări frecvente </a>
 >
 > <b>Maxim 7 echipe per tema de proiect</b>, cu echipe compuse din 2 persoane din grupele conduse de același responsabil de laborator.
 >
