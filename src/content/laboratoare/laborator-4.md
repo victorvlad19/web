@@ -26,6 +26,7 @@ draft: false
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/bem.html" target="_blank">bem.html</a>
   - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/bem.css" target="_blank">bem.css</a>
 - <span>Exercitiul 2 - Sa se refactorizeze codul de la exercitiul 1 folosind SCSS sau SASS </span>
+- <span>Exercitiul 3 - Sa se refactorizeze codul de la laboratorul 2 exercitiul 3 folosind SCSS sau SASS si metodologia BEM </span>
 
 Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
 Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
