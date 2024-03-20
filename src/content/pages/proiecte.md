@@ -11,7 +11,7 @@ draft: false
 > - <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-projects.html" target="_blank">Detalii despre proiectele practice </a>
 > - <a href="https://docs.google.com/document/d/1Gmnx1RRssG87u3EmarKP93LToxGH5KpM3XxTaMsSO3I/edit" target="_blank">Întrebări frecvente </a>
 >
-> <b>Maxim 7 echipe per tema de proiect</b>, cu echipe compuse din 2 persoane din grupele conduse de același responsabil de laborator.
+> <b>Maxim 8 echipe per tema de proiect</b>, cu echipe compuse din 2 persoane din grupele conduse de același responsabil de laborator.
 >
 
 <div style={{marginTop: "30px"}}></div>
