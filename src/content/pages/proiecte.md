@@ -142,7 +142,7 @@ in formate precum HTML, CSV si PDF. Fiecare nou raport introdus va fi disponibil
 si ca flux de stiri RSS.
 
 <b>Bonus:</b> Generarea de minim 3 vizualizari concludente.
-Citeste mai multe <a href="" >aici </a>
+Citeste mai multe <a href="https://profs.info.uaic.ro/~busaco/teach/courses/hci/presentations/hci08-DataVisualization.pdf" >aici </a>
 
 ---
 
