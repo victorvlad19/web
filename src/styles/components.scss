@@ -20,14 +20,18 @@ p {
 }
 
 .slides {
-  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%) !important;
+  background: linear-gradient(90deg, #00d2ff -60%, #3a47d5 100%) !important;
   padding: 1rem !important;
+  display: inline-block;
+  text-align: center !important;
+
 }
 
 .slides-link {
-  display: block;
-  text-align: center;
+  display: inline-block;
   color: white !important;
+  margin-left: 10px;
+  margin-right: 10px;
   text-decoration: none !important;
 }
 

@@ -14,6 +14,17 @@ draft: false
 > <b>Maxim 8 echipe per tema de proiect</b>, cu echipe compuse din 2 persoane din grupele conduse de același responsabil de laborator.
 >
 
+
+
+<blockquote class="slides">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXD276_hTvVBhd5JpSDOUjo0Kgld4FRsk8cUdyOvpi8RQGcg/viewform" class="slides-link">Inscriere echipa</a>
+    <span> | </span>
+    <a href="https://docs.google.com/spreadsheets/d/13DSgykyj3bkE4gdSGoY6NJyvKhzXggcDOJcR9RFLK00/edit?usp=sharing" class="slides-link">Echipe inscrise</a>
+</blockquote>
+
+
+
+
 <div style={{marginTop: "30px"}}></div>
 
 #### <span> <b >1. </b> <b>DeAd</b> (Detention Admin) </span>

@@ -2,6 +2,7 @@ import { humanize } from "@/lib/utils/textConverter";
 import Link from "next/link";
 
 import { FaSheetPlastic } from "react-icons/fa6";
+import { FaRegDotCircle } from "react-icons/fa";
 
 const PostSidebar = ({
   tags,
@@ -18,7 +19,11 @@ const PostSidebar = ({
       <div className="mb-8">
         <div className="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
             <h5 className="mb-6">Anunțuri</h5>
-            <p>Studenţii din grupa <span style={{ fontWeight: "bolder"}}>B1</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul C411.</p>
+            <ul>
+            <li><FaRegDotCircle style={{ display: "inline-block"}}/> Studenţii din grupa <span style={{ fontWeight: "bolder"}}>B1</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul C411.</li>
+                <br/>
+            <li><FaRegDotCircle style={{ display: "inline-block"}}/> Insrierile proiectelor sunt deschise pana in saptamana 6.</li>
+            </ul>
         </div>
       </div>
       {/* <!-- tags --> */}
