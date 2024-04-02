@@ -20,6 +20,8 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
+    "@mantine/core": "^7.7.1",
+    "@mantine/hooks": "^7.7.1",
     "@vercel/analytics": "^1.2.2",
     "@vercel/speed-insights": "^1.0.10",
     "date-fns": "^3.3.1",
