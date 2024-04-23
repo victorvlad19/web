@@ -17,8 +17,6 @@ draft: false
 
 
 <blockquote class="slides-1">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXD276_hTvVBhd5JpSDOUjo0Kgld4FRsk8cUdyOvpi8RQGcg/viewform" class="slides-link-1">Inscriere echipa</a>
-    <span> | </span>
     <a href="https://docs.google.com/spreadsheets/d/13DSgykyj3bkE4gdSGoY6NJyvKhzXggcDOJcR9RFLK00/edit?usp=sharing" class="slides-link-1">Echipe inscrise</a>
 </blockquote>
 
