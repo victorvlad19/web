@@ -1,12 +1,16 @@
 import { Post } from "@/types";
+import * as console from "node:console";
 
 // sort by date
 export const sortByDate = (array: Post[]) => {
-  const sortedArray = array.sort(
-    (a: any, b: any) =>
-      new Date(b.frontmatter.date && b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date && a.frontmatter.date).valueOf(),
-  );
+  const sortedArray = array.sort((a: any, b: any) => {
+    // Regular expression to match numbers in the title
+    const regex = /\d+/g;
+    const numberA = parseInt((a.frontmatter.title.match(regex) || [])[0] || '0');
+    const numberB = parseInt((b.frontmatter.title.match(regex) || [])[0] || '0');
+    return numberA - numberB;
+  });
+  console.log(sortedArray);
   return sortedArray;
 };
 

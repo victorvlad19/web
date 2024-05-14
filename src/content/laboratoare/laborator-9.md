@@ -6,7 +6,7 @@ draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/andrei.panu/courses/web/lab" target="_blank">@busaco/tehnologii-web/desfășurare </a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Procesarea datelor XML & HTML. Document Object Model </a>
 
 <blockquote class="slides">
