@@ -20,9 +20,10 @@ const PostSidebar = ({
         <div className="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
             <h5 className="mb-6">Anunțuri</h5>
             <ul>
-            <li><FaRegDotCircle style={{ display: "inline-block"}}/> Studenţii din grupa <span style={{ fontWeight: "bolder"}}>B1</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul C411.</li>
+                <li><FaRegDotCircle style={{ display: "inline-block"}}/> Studenţii din grupa <span style={{ fontWeight: "bolder"}}>A4</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul C411.</li>
                 <br/>
-            <li><FaRegDotCircle style={{ display: "inline-block"}}/> Insrierile proiectelor sunt deschise pana in saptamana 6.</li>
+            <li><FaRegDotCircle style={{ display: "inline-block"}}/> Studenţii din grupa <span style={{ fontWeight: "bolder"}}>B1</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul C411.</li>
+
             </ul>
         </div>
       </div>
