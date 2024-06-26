@@ -6,7 +6,7 @@ draft: false
 ---
 
 > - <a href="https://docs.google.com/spreadsheets/d/10K-Jmxh-eGZPkHtUCezMRnD9GVO_aImYjE8DF5JxgRM/edit?gid=0#gid=0" target="_blank">Planificare evaluare componenta S  </a>
-
+> - <a href="https://edu.info.uaic.ro/orar/participanti/orar_vladV.html" target="_blank"> Orar </a>
 
 ### 🎯 Criterii de evaluare saptamana 8
 - HTML si CSS valide 
