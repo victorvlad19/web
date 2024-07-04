@@ -20,20 +20,24 @@ const PostSidebar = ({
         <div className="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
             <h5 className="mb-6">Anunțuri</h5>
             <ul>
+                <li><FaRegDotCircle style={{display: "inline-block"}}/> Sesiunea de restanțe se organizează sâmbătă, 06.07.2024 în laboratorul C413
+                </li>
+                <br/>
                 <li><FaRegDotCircle style={{display: "inline-block"}}/>
-                    <a style={{textDecoration: "underline"}} href="https://docs.google.com/spreadsheets/d/10K-Jmxh-eGZPkHtUCezMRnD9GVO_aImYjE8DF5JxgRM/edit?usp=sharing"
+                    <a style={{textDecoration: "underline"}}
+                       href="https://docs.google.com/spreadsheets/d/10K-Jmxh-eGZPkHtUCezMRnD9GVO_aImYjE8DF5JxgRM/edit?usp=sharing"
                        target="_blank" rel="noopener noreferrer"> Planificare evaluare componenta S </a>
                 </li>
-                <br/>
-                <li><FaRegDotCircle style={{display: "inline-block"}}/> Studenţii din grupa <span
-                    style={{fontWeight: "bolder"}}>A4</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul
-                    C411.
-                </li>
-                <br/>
-                <li><FaRegDotCircle style={{display: "inline-block"}}/> Studenţii din grupa <span
-                    style={{fontWeight: "bolder"}}>B1</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul
-                    C411.
-                </li>
+                {/*<br/>*/}
+                {/*<li><FaRegDotCircle style={{display: "inline-block"}}/> Studenţii din grupa <span*/}
+                {/*    style={{fontWeight: "bolder"}}>A4</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul*/}
+                {/*    C411.*/}
+                {/*</li>*/}
+                {/*<br/>*/}
+                {/*<li><FaRegDotCircle style={{display: "inline-block"}}/> Studenţii din grupa <span*/}
+                {/*    style={{fontWeight: "bolder"}}>B1</span> sunt rugați să vina sâmbătă de la 10:00 in laboratorul*/}
+                {/*    C411.*/}
+                {/*</li>*/}
 
             </ul>
         </div>
