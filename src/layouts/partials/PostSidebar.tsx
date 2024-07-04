@@ -20,7 +20,7 @@ const PostSidebar = ({
         <div className="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
             <h5 className="mb-6">Anunțuri</h5>
             <ul>
-                <li><FaRegDotCircle style={{display: "inline-block"}}/> Sesiunea de restanțe se organizează sâmbătă, 06.07.2024 în laboratorul C413
+                <li><FaRegDotCircle style={{display: "inline-block"}}/> Sesiunea de restanțe se organizează sâmbătă, 06.07.2024 în laboratorul C413. Toate grupele trebuie sa fie prezente de la ora 9:00.
                 </li>
                 <br/>
                 <li><FaRegDotCircle style={{display: "inline-block"}}/>
