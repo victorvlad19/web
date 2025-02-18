@@ -2,7 +2,7 @@
 title: "Laboratorul 9"
 image: "/images/9_xml.png"
 categories: ["PHP", "XML", "SVG", "Vanilla Javascript"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

@@ -2,7 +2,7 @@
 title: "Laboratorul 13"
 image: "/images/13_sec.png"
 categories: ["Securitatea Aplicaţiilor Web", "Microservicii", "Specificarea API-urilor"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

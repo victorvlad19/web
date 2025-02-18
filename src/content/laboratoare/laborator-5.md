@@ -2,7 +2,7 @@
 title: "Laboratorul 5"
 image: "/images/5_php.png"
 categories: ["PHP"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

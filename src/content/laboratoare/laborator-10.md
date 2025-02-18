@@ -2,7 +2,7 @@
 title: "Laboratorul 10"
 image: "/images/10_fetch.png"
 categories: ["AJAX", "Fetch API", "Proiecte"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

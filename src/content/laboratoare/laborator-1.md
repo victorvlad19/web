@@ -6,14 +6,14 @@ draft: false
 ---
 
 > ### ️Prezentare generală
-> Pagina cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-index.html" class="text-link" target="_blank">@andrei.panu/web </a> \
-> Regulament intern: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-rules.html" class="text-link" target="_blank">@andrei.panu/web/regulement </a> \
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" class="text-link" target="_blank">@andrei.panu/web/desfășurare </a> \
+> Pagina cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/" class="text-link" target="_blank">@busaco/web </a> \
+> Regulament intern: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-rules.html" class="text-link" target="_blank">@busaco/web/regulement </a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> \
 > Detalii despre evaluare:
-> - <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-exam.html" class="text-link" target="_blank">Aspecte privind evaluarea activităţii </a>
-> - <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-projects.html" class="text-link" target="_blank">Detalii despre proiectele practice </a>
+> - <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-exam.html" class="text-link" target="_blank">Aspecte privind evaluarea activităţii </a>
+> - <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-projects.html" class="text-link" target="_blank">Detalii despre proiectele practice </a>
 >
-> Resurse de interes: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-biblio.html" class="text-link" target="_blank">@andrei.panu/web/bibliografie  </a>
+> Resurse de interes: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-biblio.html" class="text-link" target="_blank">@busaco/web/bibliografie  </a>
 
 <blockquote class="slides">
     <a href="https://docs.google.com/presentation/d/e/2PACX-1vRZdzDnfDWLM_12nR2pCukYWFWJewebzOTLzut0JDZJqFmr3u4MF7MWzsVghuvtADnxH3I4IidiLRr1/pub?start=false&loop=false&delayms=3000&slide=id.p" class="slides-link">Slide-uri laborator</a>
@@ -46,9 +46,6 @@ draft: false
   - <a href="https://getemoji.com/" target="_blank">Pictograme</a>
 
 Validare HTML: <a href="https://validator.w3.org/#validate_by_input" target="_blank">aici</a>
-
-Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
-Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3schools.com/html/exercise.asp" target="_blank">W3schools Exercise v3.0 </a>,

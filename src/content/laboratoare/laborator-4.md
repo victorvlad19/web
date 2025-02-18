@@ -2,7 +2,7 @@
 title: "Laboratorul 4"
 image: "/images/4_css.png"
 categories: ["Proiecte", "Recapitulare", "Design si Interacţiune Web"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

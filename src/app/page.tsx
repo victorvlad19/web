@@ -55,11 +55,11 @@ const Home = () => {
               />
             </div>
 
-            <PostSidebar
-                categories={categories}
-                tags={tags}
-                allCategories={allCategories}
-            />
+            {/*<PostSidebar*/}
+            {/*    categories={categories}*/}
+            {/*    tags={tags}*/}
+            {/*    allCategories={allCategories}*/}
+            {/*/>*/}
 
           </div>
         </div>

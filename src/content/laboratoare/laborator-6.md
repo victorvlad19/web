@@ -2,7 +2,7 @@
 title: "Laboratorul 6"
 image: "/images/6_php_db.png"
 categories: ["PHP", "BD", "PDO"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

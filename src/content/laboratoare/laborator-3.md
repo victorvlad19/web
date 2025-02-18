@@ -2,7 +2,7 @@
 title: "Laboratorul 3"
 image: "/images/3_css.png"
 categories: ["CSS", "Design Responsiv", "Animatii CSS"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

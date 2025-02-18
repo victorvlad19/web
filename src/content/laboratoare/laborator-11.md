@@ -2,7 +2,7 @@
 title: "Laboratorul 11"
 image: "/images/11_rest.png"
 categories: ["Servicii Web", "REST"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

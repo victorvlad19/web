@@ -2,7 +2,7 @@
 title: "Laboratorul 7"
 image: "/images/7_php_mvc.png"
 categories: ["PHP", "MVC"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală

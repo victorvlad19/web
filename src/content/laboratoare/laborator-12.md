@@ -2,7 +2,7 @@
 title: "Laboratorul 12"
 image: "/images/12_graphql.png"
 categories: ["GraphQL", "Microservicii", "Specificarea API-urilor"]
-draft: false
+draft: true
 ---
 
 > ### ️Prezentare generală
