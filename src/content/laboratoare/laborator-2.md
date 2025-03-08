@@ -6,8 +6,8 @@ draft: true
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a> \
-> Curs: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/presentations/web02ProgramareWeb-HTTP-CGI.pdf" target="_blank">Programare Web – protocolul HTTP + script-uri CGI</a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> \
+> Curs: <a href="https://edu.info.uaic.ro/web-technologies/presentations/web02ProgramareWeb-HTTP-CGI.pdf" target="_blank">Programare Web – protocolul HTTP + script-uri CGI</a> \
 > Foi de stiluri CSS: <a href="https://profs.info.uaic.ro/~busaco/teach/labs/css" target="_blank">@busaco/css </a>
 
 <blockquote class="slides">
@@ -34,9 +34,6 @@ draft: true
 
 Validare HTML: <a href="https://validator.w3.org/#validate_by_input" target="_blank">aici</a> \
 Validare CSS: <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">aici</a>
-
-Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
-Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3schools.com/css/exercise.asp" target="_blank">W3schools CSS Exercises</a>,
