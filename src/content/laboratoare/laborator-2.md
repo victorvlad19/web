@@ -2,7 +2,7 @@
 title: "Laboratorul 2"
 image: "/images/2_css.png"
 categories: ["CSS"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
