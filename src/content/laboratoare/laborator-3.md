@@ -2,11 +2,11 @@
 title: "Laboratorul 3"
 image: "/images/3_css.png"
 categories: ["CSS", "Design Responsiv", "Animatii CSS"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web03ProgramareWeb-HTTP-cookie-sesiune.pdf" target="_blank">Programare Web – cookie-uri + sesiuni Web</a> \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web04DezvoltareaAplicatiilorWeb-InginerieWeb.pdf" target="_blank">Programare Web – Inginerie Web. MVC</a> \
 > Foi de stiluri CSS: <a href="https://profs.info.uaic.ro/~busaco/teach/labs/css" target="_blank">@busaco/css </a> \
@@ -42,10 +42,6 @@ draft: true
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/anim.html" target="_blank">anim.html</a>
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/anim.css" target="_blank">anim.css</a>
 - <span>Exercitiul 5 - Rescrie codul de la exercitiul 2 folosind variabile</span>
-
-Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
-Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
-
 
 ### 🏠 Exerciții suplimentare
 <a href="http://www.flexboxdefense.com" target="_blank">Flexbox Defense</a>,
