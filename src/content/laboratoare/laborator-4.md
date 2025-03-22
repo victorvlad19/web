@@ -2,11 +2,11 @@
 title: "Laboratorul 4"
 image: "/images/4_css.png"
 categories: ["Proiecte", "Recapitulare", "Design si Interacţiune Web"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Programare Web – Arhitectura aplicaţiilor Web. Servere de aplicaţii Web. PHP </a>
 
 <blockquote class="slides">
@@ -28,8 +28,6 @@ draft: true
 - <span>Exercitiul 2 - Sa se refactorizeze codul de la exercitiul 1 folosind SCSS sau SASS </span>
 - <span>Exercitiul 3 - Sa se refactorizeze codul de la laboratorul 2 exercitiul 3 folosind SCSS sau SASS si metodologia BEM </span>
 
-Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
-Corpul mesajului trebuie sa contina numarul exercitiului si un <a href="https://github.com/victorvlad19/web/raw/master/_posts/imagini/JSFiddle_Link.png" target="_blank">link</a>  de <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://gist.github.com/intersim/892601df6835805ea26ea6e36d3b0db8" target="_blank">SCSS Exercises</a>,
