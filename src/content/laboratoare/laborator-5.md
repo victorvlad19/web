@@ -2,11 +2,11 @@
 title: "Laboratorul 5"
 image: "/images/5_php.png"
 categories: ["PHP"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Programare Web – Arhitectura aplicaţiilor Web. Servere de aplicaţii Web. PHP </a>
 
 <blockquote class="slides">
@@ -39,9 +39,6 @@ draft: true
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/5/3/Book.php" target="_blank">Book.php</a>
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/5/3/Ebook.php" target="_blank">Ebook.php</a>
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/5/3/BookInterface.php" target="_blank">BookInterface.php</a>
-
-Rezolvarile se vor trimite pe adresa <a href="mailto:victorvlad.web@gmail.com" target="_blank">victorvlad.web@gmail.com</a>. Mesajele trimise  trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa.
-Corpul mesajului trebuie sa contina numarul exercitiului si un link de <a href="https://replit.com" target="_blank">Replit</a> cu rezolvarea.
 
 
 ### 🏠 Exerciții suplimentare
