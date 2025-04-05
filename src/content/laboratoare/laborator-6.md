@@ -2,11 +2,11 @@
 title: "Laboratorul 6"
 image: "/images/6_php_db.png"
 categories: ["PHP", "BD", "PDO"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a> \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Programare Web – Arhitectura aplicaţiilor Web. Servere de aplicaţii Web. PHP </a> \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Modelarea datelor. Familia XML. Studiu de caz: SVG</a> \
 > Supliment: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#web-nodejs" target="_blank">Node.js</a>
@@ -33,7 +33,6 @@ draft: true
 - <span>Exercitiul 2 - Sa se retina intr-un cookie titlul ultimei carti introduse in baza de date: </span>
     - <a href="https://www.php.net/manual/en/function.setcookie.php">PHP Manual (setcookie) </a>
 
-Rezolvarile se vor trimite pe adresa victorvlad.web@gmail.com. Mesajele trimise trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa. Corpul mesajului trebuie sa contina numarul exercitiului si un link de Replit cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3schools.com/php/exercise.asp" target="_blank">W3schools PHP Exercises</a>,
