@@ -2,14 +2,11 @@
 title: "Laboratorul 7"
 image: "/images/7_php_mvc.png"
 categories: ["PHP", "MVC"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
-> Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Programare Web – Arhitectura aplicaţiilor Web. Servere de aplicaţii Web. PHP </a> \
-> Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Modelarea datelor. Familia XML. Studiu de caz: SVG</a> \
-> Supliment: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#web-nodejs" target="_blank">Node.js</a>
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a> 
 
 
 <blockquote class="slides">
@@ -30,8 +27,6 @@ draft: true
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/7/Controller.php" target="_blank">Controller.php</a>
     - <a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/code/7/Dispatcher.php" target="_blank">Dispatcher.php </a>
 - <span><a href="https://miro.medium.com/max/977/1*I9mpgAX_OpaJa35jiQfUVg.png">Exercitiul 2</a> - Sa se implementeze dispatcher-ul pentru url-ul din imagine </span>
-
-Rezolvarile se vor trimite pe adresa victorvlad.web@gmail.com. Mesajele trimise trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa. Corpul mesajului trebuie sa contina numarul exercitiului si un link de Replit cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3schools.com/php/exercise.asp" target="_blank">W3schools PHP Exercises</a>,
