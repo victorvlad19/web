@@ -1,5 +1,13 @@
 {
   "main": [
+    {
+      "name": "Proiecte",
+      "url": "/proiecte"
+    },
+    {
+      "name": "Feedback",
+      "url": "https://forms.gle/A5yXKxJ9UDShBJpL6"
+    }
 
   ]
 }
