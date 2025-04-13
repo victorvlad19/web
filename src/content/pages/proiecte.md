@@ -11,6 +11,31 @@ draft: false
 > - <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-projects.html" target="_blank">Detalii despre proiectele practice </a>
 >
 
+<blockquote
+  className="slides"
+  style={{ display: "flex", gap: "16px", justifyContent: "center", alignItems: "center" }}
+>
+  <a
+    href="https://forms.gle/Kt6ATiirNiF5NvFF7"
+    className="slides-link"
+    style={{ color: "white" }}
+  >
+    <span style={{ color: "white" }}>Inscriere echipa</span>
+  </a>
+
+<span style={{ color: "white" }}>|</span>
+
+<a
+href="https://docs.google.com/spreadsheets/d/1JaIl5_CimpkWctVYbluPuqHBA2RVQGRVd3A82Tu8ROc/edit?usp=sharing"
+className="slides-link"
+style={{ color: "white" }}
+>
+    <span style={{ color: "white" }}>Echipe inscrise</span>
+  </a>
+</blockquote>
+
+
+
 
 
 
