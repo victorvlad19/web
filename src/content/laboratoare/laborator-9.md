@@ -2,11 +2,11 @@
 title: "Laboratorul 9"
 image: "/images/9_xml.png"
 categories: ["PHP", "XML", "SVG", "Vanilla Javascript"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a>  \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web05DezvoltareaAplicatiilorWeb-PHP.pdf" target="_blank">Procesarea datelor XML & HTML. Document Object Model </a>
 
 <blockquote class="slides">
@@ -35,8 +35,6 @@ draft: true
 - <span><a href="https://raw.githubusercontent.com/victorvlad19/web/master/_posts/imagini/L9_Ex2.png">Exercitiul 2</a> - Folosind SVG sa se implementeze imaginea  </span>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/line" target="_blank">Linie</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/circle" target="_blank">Cerc</a>
-
-Rezolvarile se vor trimite pe adresa victorvlad.web@gmail.com. Mesajele trimise trebuie să aibă în câmpul Subject prefixul #web urmat de numarul laboratorului, numele studentului si grupa. Corpul mesajului trebuie sa contina numarul exercitiului si un link de Replit cu rezolvarea.
 
 ### 🏠 Exerciții suplimentare
 <a href="https://www.w3resource.com/javascript-exercises" target="_blank">W3resource JavaScript - Exercises </a>,
