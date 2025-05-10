@@ -2,11 +2,11 @@
 title: "Laboratorul 10"
 image: "/images/10_fetch.png"
 categories: ["AJAX", "Fetch API", "Proiecte"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web08ProcesariXML-DOM.pdf" target="_blank">Procesarea datelor XML & HTML. Document Object Model (continuare) </a> \
 > Vezi si suplimentul web: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#web-xml-sax"> Alte maniere de procesare XML </a>
 
