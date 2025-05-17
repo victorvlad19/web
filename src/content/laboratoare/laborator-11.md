@@ -2,11 +2,11 @@
 title: "Laboratorul 11"
 image: "/images/11_rest.png"
 categories: ["Servicii Web", "REST"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a>  \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web09ServiciiWeb-REST.pdf" target="_blank">Servicii Web. Arhitecturi bazate pe servicii. Paradigma REST </a> \
 > Vezi si suplimentul web: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web-ServiciiWeb-SOA-SOAP-WSDL-UDDI.pdf"> Servicii Web. SOAP, WSDL şi UDDI </a>
 
