@@ -2,11 +2,11 @@
 title: "Laboratorul 12"
 image: "/images/12_graphql.png"
 categories: ["GraphQL", "Microservicii", "Specificarea API-urilor"]
-draft: true
+draft: false
 ---
 
 > ### ️Prezentare generală
-> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/~andrei.panu/courses/web/web-film.html" target="_blank">@andrei.panu/tehnologii-web/desfășurare </a>  \
+> Prezentările aferente cursului: <a href="https://profs.info.uaic.ro/sabin.buraga/teach/courses/web/web-film.html" class="text-link" target="_blank">@busaco/web/desfășurare </a>  \
 > Curs: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web10ServiciiWeb-API-Microservicii-Serverless.pdf" target="_blank">Servicii Web. Micro-servicii. Serverless. Specificarea API-urilor. GraphQL</a> \
 > Vezi si suplimentul web: <a href="https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web-ServiciiWeb-SOA-SOAP-WSDL-UDDI.pdf"> Servicii Web. SOAP, WSDL şi UDDI </a>
 
