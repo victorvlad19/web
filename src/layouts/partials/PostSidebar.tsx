@@ -20,7 +20,7 @@ const PostSidebar = ({
         <div className="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
             <h5 className="mb-6">Anunțuri</h5>
             <ul>
-                <li><FaRegDotCircle style={{display: "inline-block"}}/> Evaluarea va avea loc sâmbătă, 14 iunie (14.06.2025) , începând cu ora 10:00 , în laboratorul C412.
+                <li><FaRegDotCircle style={{display: "inline-block"}}/> Evaluarea va avea loc sâmbătă, 28 iunie (28.06.2025) , începând cu ora 10:00 , în laboratorul C412.
                 </li>
                 <br/>
                 <li><FaRegDotCircle style={{display: "inline-block"}}/>
