@@ -5,7 +5,7 @@ description: "this is meta description"
 draft: false
 ---
 
-> Evaluarea va avea loc sâmbătă, <b> 14 iunie (14.06.2025) </b>, începând cu ora <b> 10:00 </b>, în laboratorul C412.
+> Evaluarea va avea loc sâmbătă, <b> 28 iunie (28.06.2025) </b>, începând cu ora <b> 10:00 </b>, în laboratorul C412.
 <br/>Vă rugăm să fiți prezenți cu câteva minute înainte pentru a începe la timp.
 
 ### 🎯 Criterii de evaluare
