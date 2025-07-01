@@ -20,7 +20,11 @@ const PostSidebar = ({
         <div className="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
             <h5 className="mb-6">Anunțuri</h5>
             <ul>
-                <li><FaRegDotCircle style={{display: "inline-block"}}/> Evaluarea va avea loc sâmbătă, 28 iunie (28.06.2025) , începând cu ora 10:00 , în laboratorul C412.
+                <li><FaRegDotCircle style={{display: "inline-block"}}/> Restanțele va avea loc sâmbătă 05 iulie începând cu ora 10:00 , în laboratorul C412. Susținerea testului scris se va desfăşura în ziua de marţi, 01 iulie, de la ora 12:30, în sala C309.
+                </li>
+                <br/>
+                <li><FaRegDotCircle style={{display: "inline-block"}}/> Evaluarea va avea loc sâmbătă, 28 iunie
+                    (28.06.2025) , începând cu ora 10:00 , în laboratorul C412.
                 </li>
                 <br/>
                 <li><FaRegDotCircle style={{display: "inline-block"}}/>
